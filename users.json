@@ -1,0 +1,20 @@
+{
+  "NGANIL": {
+    "username": "NGANIL",
+    "password": "NG1988",
+    "is_admin": true,
+    "unlimited": true,
+    "credits": 1000000,
+    "groups": []
+  },
+  "bashant": {
+    "username": "bashant",
+    "password": "7285222914",
+    "email": "",
+    "is_admin": false,
+    "credits": 0,
+    "groups": [
+      "GRP-66CF8D"
+    ]
+  }
+}

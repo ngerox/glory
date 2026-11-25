@@ -1,0 +1,15 @@
+{
+  "price": 1,
+  "upi_id": "anileditz@fam",
+  "payee": "NG RAXX",
+  "gmail": "anilffag@gmail.com",
+  "app_password": "qiwjtfydtvwwpkhg",
+  "sender_filter": "fampay",
+  "credit_keywords": "received,credited,paid you,sent you,payment from,money in",
+  "debit_keywords": "debited,you paid,paid to,sent to,you sent,payment to,withdrawn",
+  "max_age_hours": 48,
+  "min_credits": 1,
+  "imap_host": "imap.gmail.com",
+  "gateway_key": "",
+  "gateway_base": ""
+}

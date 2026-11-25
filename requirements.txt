@@ -1,0 +1,10 @@
+aiohttp
+Flask
+httpx
+requests
+google_play_scraper
+pycryptodome
+protobuf
+protobuf-decoder
+urllib3
+gunicorn
